@@ -37,9 +37,9 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 1. Using the Google Directions API, create a travel itinerary that shows the route between four cities chosen out of the vacation set of destinations. 
   * Create four DataFrames, one for each city on the itinerary
   * Retrieve the latitudes and longitudes for each of the four cities
-  * Create a direction layer map between the cities and the travel map
+  * Create a direction layer map between the cities on the travel map
   * Save an image of the map
-3. Create a marker map with a pop-up markers for each city on the itinerary. Each marker has the following information:
+2. Create a marker map with a pop-up markers for each city on the itinerary. Each marker has the following information:
   * Hotel name
   * City
   * Country
@@ -49,7 +49,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 ### Resources
 - Software: Python 3.6.1, Jupyter Notebook, Pandas
 
-## Analysis Results for Weather Analysis
+## Results for Weather Analysis
 1. Retrieved all of the following information from the OpenWeatherMap API
   * Latitude and longitude
   * Maximum temperature
@@ -66,7 +66,7 @@ A sample of these result is shown here:
 2. Export the results to a .csv file. 
   * The .csv file is saved in this repository in the Weather_Database Folder as WeatherPy_database.csv
 
-## Analysis Results for Vacation Destinations Analysis & Visualization
+## Results for Vacation Destinations Analysis & Visualization
 1. Input statements were used to receive customer temperature preferences by prompting for the preferred minimum and maximum temperatures, then the analysis used those preferences to identify potential travel destinations and nearby hotels.
 
 A sample of these result is shown here:
@@ -88,6 +88,25 @@ A sample of these result is shown here:
 4. Marker layer map image is saved
  * The vacation destinations map image is saved in this repository in the Vacation_Search Folder as WeatherPy_vacation_map.png
  
+## Results for Travel Itinerary Analysis & Visualization
+1. Using the Google Directions API, a travel itinerary was created that shows the route between four cities chosen out of the vacation set of destinations including the creation four latitude -longitude DataFrames, one for each city on the itinerary
+
+2. A direction layer map was created between the cities on the travel map
+
+![Vacation_Directions map image](/Vacation_Search/WeatherPy_travel_map.png)
+
+3. An image of the vacation itinerary map was saved
+* The vacation intinerary map image is saved in this repository in the Vacation_Itinerary Folder as WeatherPy_travel_map.png
+
+4. Create a marker map with a pop-up markers for each city on the itinerary. Each marker has the following information:
+  * Hotel name
+  * City
+  * Country
+  * Maximum temperature
+  * Current weather description
+
+
+
 ## Weather, Vacation, and Itinerary Visualization Summary and Proposed Recommendations
 1. ...
 2. 
