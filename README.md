@@ -74,7 +74,7 @@ A sample of these result is shown here:
 ![Vacation_Search DF image](/Vacation_Search/Vacation_Search_DF.png)
 
 2. Export the vacation DataFrame of the preferred temperature range locations and nearby hotels to a .csv file
-   * The .csv file is saved in this repository in the Vacation_Search Folder as WeatherPy_vacation.csv
+  * The .csv file is saved in this repository in the Vacation_Search Folder as WeatherPy_vacation.csv
 
 3. Show those vacation destinations on a marker layer map with pop-up markers for cities. The pop up markers include the following information:
   * Hotel name
