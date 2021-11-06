@@ -1,9 +1,10 @@
-# Weather Data Visualizataion using APIs
+# Weather Data Analysis and Visualizations using OpenWeatherMap and Google APIs
 
-## Weather Data Visualizataion using APIsOverview
+## # Weather Data Analysis and Visualization Overview
 
 This project is to perform exploratory data analysis on approximately 2000 random lattitudes and longitudes for a hypothetical travel company leveraging: 
-* analysis skills including retrieving data from APIs via "get" requests, writing python functions
+* datat analysis skills including retrieving data from APIs via "get" requests
+* writing python functions
 * visualizations
 * statistical skills
 * creating data series and data frames. 
