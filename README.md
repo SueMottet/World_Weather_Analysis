@@ -10,16 +10,41 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 
 
 ### Objective 1: Retrieve Weather Data
-1.
+1. Retrieve all of the following information from the OpenWeatherMap API
+ * Latitude and longitude
+ * Maximum temperature
+ * Percent humidity
+ * Percent cloudiness
+ * Wind speed
+ * Weather description
+2. Add the weather data to a new DataFrame
+3. Export the DataFrame to a .csv file
 
 ### Objective 2: Create a Customer Travel Destinations Map
-1.
+1. Use input statements to receive customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels.
+ * Prompt for the preferred minimum and maximum temperatures
+ * Create a new vacation DataFrame based on the minimum and maximum temperature entered, and empty rows are dropped
+ * Export the vacation DataFrame of the preferred temperature range locations and nearby hotels to a .csv file
+2. Show those vacation destinations on a marker layer map with pop-up markers for cities. The pop up markers include the following information:
+ * Hotel name
+ * City
+ * Country
+ * Maximum temperature
+ * Current weather description
+3. Marker layer map image is saved
 
 ### Objective 3: Create a Travel Intinery Map
-1.
-
-
-
+1. Using the Google Directions API, create a travel itinerary that shows the route between four cities chosen out of the vacation set of destinations. 
+ * Create four DataFrames, one for each city on the itinerary
+ * Retrieve the latitudes and longitudes for each of the four cities
+ * Create a direction layer map between the cities and the travel map
+ * Save an image of the map
+3. Create a marker map with a pop-up markers for each city on the itinerary. Each marker has the following information:
+ * Hotel name
+ * City
+ * Country
+ * Maximum temperature
+ * Current weather description
 
 ### Resources
 - Software: Python 3.6.1, Jupyter Notebook, Pandas
