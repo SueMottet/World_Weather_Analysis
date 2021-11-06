@@ -34,7 +34,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
   * Current weather description
 3. Marker layer map image is saved
 
-### Objective 3: Create a Travel Intinery Map
+### Objective 3: Create a Travel Itinerary Map
 1. Using the Google Directions API, create a travel itinerary that shows the route between four cities chosen out of the vacation set of destinations. 
   * Create four DataFrames, one for each city on the itinerary
   * Retrieve the latitudes and longitudes for each of the four cities
