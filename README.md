@@ -61,7 +61,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 
 A sample of these result is shown here:
 
-![Weather Database DF image](/Weather_Database/Weather_Database_DF)
+![Weather Database DF image](/Weather_Database/Weather_Database_DF.png)
 
 
 
