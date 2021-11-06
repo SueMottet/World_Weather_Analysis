@@ -49,7 +49,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 ### Resources
 - Software: Python 3.6.1, Jupyter Notebook, Pandas
 
-## Analysis Results for Weather and Vacation Analysis
+## Analysis Results for Weather Analysis
 1. Retrieved all of the following information from the OpenWeatherMap API
  * Latitude and longitude
  * Maximum temperature
@@ -63,6 +63,27 @@ A sample of these result is shown here:
 
 ![Weather Database DF image](/Weather_Database/Weather_Database_DF.png)
 
+2. Export the results to a .csv file. 
+ * The .csv files is save in this repository in the Weather_Database Folder as WeatherPy_database.csv
+
+## Analysis Results for Vacation Analysis & Visualization
+1. Input statements were used to receive customer weather preferences by prompting for the preferred minimum and maximum temperatures, then the analysis used those preferences to identify potential travel destinations and nearby hotels.
+
+A sample of these result is shown here:
+
+![Vacation_Search DF image](/Vacation_Search/Vacation_Search_DF.png)
+
+ 2. Export the vacation DataFrame of the preferred temperature range locations and nearby hotels to a .csv file
+   * The .csv files is save in this repository in the Vacation Search Folder as WeatherPy_vacation.csv
+2. Show those vacation destinations on a marker layer map with pop-up markers for cities. The pop up markers include the following information:
+ * Hotel name
+ * City
+ * Country
+ * Maximum temperature
+ * Current weather description
+3. Marker layer map image is saved
+
+![Vacation_Search map image](/Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ## Weather, Vacation, and Itinerary Visualization Summary and Proposed Recommendations
