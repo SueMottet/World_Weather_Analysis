@@ -49,7 +49,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 ### Resources
 - Software: Python 3.6.1, Jupyter Notebook, Pandas
 
-## Analysis Results for Ride Share Data
+## Analysis Results for Weather and Vacation Analysis
 1. 
  
 
