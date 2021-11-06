@@ -70,7 +70,7 @@ A sample of these result is shown here:
 ## Results for Vacation Destinations Analysis & Visualization
 1. Input statements were used to receive customer temperature preferences by prompting for the preferred minimum and maximum temperatures, then the analysis used those preferences to identify potential travel destinations and nearby hotels.
 
-A sample of these result is shown here:
+A sample of these results is shown here:
 
 ![Vacation_Search DF image](/Vacation_Search/Vacation_Search_DF.png)
 
