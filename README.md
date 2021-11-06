@@ -50,12 +50,18 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 - Software: Python 3.6.1, Jupyter Notebook, Pandas
 
 ## Analysis Results for Weather and Vacation Analysis
-1. 
+1. Retrieved all of the following information from the OpenWeatherMap API
+ * Latitude and longitude
+ * Maximum temperature
+ * Percent humidity
+ * Percent cloudiness
+ * Wind speed
+ * Weather description
  
 
-A summary visualization of these result is shown here:
+A sample of these result is shown here:
 
-![.. image](/Resources/...)
+![Weather Database DF image](/Weather_Database/Weather_Database_DF)
 
 
 
