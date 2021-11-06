@@ -93,7 +93,7 @@ A sample of these result is shown here:
 
 2. A direction layer map was created between the cities on the travel map
 
-![Vacation_Directions map image](/Vacation_Search/WeatherPy_travel_map.png)
+![Vacation_Directions map image](/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 3. An image of the vacation itinerary map was saved
 * The vacation intinerary map image is saved in this repository in the Vacation_Itinerary Folder as WeatherPy_travel_map.png
