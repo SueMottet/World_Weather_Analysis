@@ -117,13 +117,13 @@ A sample of these results is shown here:
 * Requests: HTTP for Humans: https://requests.kennethreitz.org/en/master/
 * Requests Library quickstart: https://requests.kennethreitz.org/en/master/user/quickstart/#make-a-request
 * OpenWeatherMap API for current weater: https://openweathermap.org/current
-* units section of the current weather data page: https://openweathermap.org/current#data
-* add the Chrome JSONView extension: https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
+* Units section of the current weather data page: https://openweathermap.org/current#data
+* Add the Chrome JSONView extension: https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
 * datetime: https://docs.python.org/3.7/library/datetime.html
 * strftime(): https://docs.python.org/3.7/library/datetime.html#strftime-and-strptime-behavior
-* errors and exceptions: https://docs.python.org/3.7/tutorial/errors.html
-* time module: https://docs.python.org/3.6/library/time.html#functions
-* linear regression: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html#scipy.stats.linregress
+* Errors and exceptions: https://docs.python.org/3.7/tutorial/errors.html
+* Time module: https://docs.python.org/3.6/library/time.html#functions
+* Linear regression: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html#scipy.stats.linregress
 * Google Maps Platform: https://cloud.google.com/maps-platform/
 * Places API Usage and Billing https://developers.google.com/places/web-service/usage-and-billing
 * gmaps dependency: https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html
