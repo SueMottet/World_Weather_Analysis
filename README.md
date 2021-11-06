@@ -98,18 +98,14 @@ A sample of these result is shown here:
 3. An image of the vacation itinerary map was saved
 * The vacation intinerary map image is saved in this repository in the Vacation_Itinerary Folder as WeatherPy_travel_map.png
 
-4. Create a marker map with a pop-up markers for each city on the itinerary. Each marker has the following information:
+4. A marker map with a pop-up markers for each city on the itinerary was created. Each marker has the following information:
   * Hotel name
   * City
   * Country
   * Maximum temperature
   * Current weather description
 
-
-
-## Weather, Vacation, and Itinerary Visualization Summary and Proposed Recommendations
-1. ...
-2. 
+![Vacation_Itinerary marker map image](/Vacation_Itinerary/WeatherPy_travel_map_marker.png)
 
 
 ### References:
