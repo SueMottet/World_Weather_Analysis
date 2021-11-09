@@ -1,4 +1,4 @@
-# Weather Data Analysis and Visualizations using OpenWeatherMap and Google APIs
+# Weather Data Analysis and Visualizations using OpenWeatherMap and APIs
 
 ## # Weather Data Analysis and Visualization Overview
 
