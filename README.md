@@ -19,7 +19,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
   * Wind speed
   * Weather description
 2. Add the weather data to a new DataFrame
-3. Export the DataFrame to a .csv file
+3. Preserve the DataFrame for the next steps of the analysis
 
 ### Objective 2: Create a Customer Travel Destinations Map
 1. Use input statements to receive customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels.
