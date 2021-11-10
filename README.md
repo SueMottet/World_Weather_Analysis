@@ -35,7 +35,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 3. Marker layer map created
 
 ### Objective 3: Create a Travel Itinerary Map
-1. Using the Google Directions API, create a travel itinerary that shows the route between four cities chosen out of the vacation set of destinations. 
+1. Using an API, create a travel itinerary that shows the route between four cities chosen out of the vacation set of destinations. 
   * Create four DataFrames, one for each city on the itinerary
   * Retrieve the latitudes and longitudes for each of the four cities
   * Create a direction layer map between the cities on the travel map
@@ -72,7 +72,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
 4. Marker layer map is created
  
 ## Results for Travel Itinerary Analysis & Visualization
-1. Using the Google Directions API, a travel itinerary was created that shows the route between four cities chosen out of the vacation set of destinations including the creation four latitude -longitude DataFrames, one for each city on the itinerary
+1. Using an API, a travel itinerary was created that shows the route between four cities chosen out of the vacation set of destinations including the creation four latitude -longitude DataFrames, one for each city on the itinerary
 2. A direction layer map was created between the cities on the travel map
 3. An image of the vacation itinerary map was created
 4. A marker map with a pop-up markers for each city on the itinerary was created. Each marker has the following information:
