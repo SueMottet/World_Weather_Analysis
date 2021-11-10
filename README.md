@@ -32,7 +32,7 @@ This project is to perform exploratory data analysis on approximately 2000 rando
   * Country
   * Maximum temperature
   * Current weather description
-3. Marker layer map image is saved
+3. Marker layer map created
 
 ### Objective 3: Create a Travel Itinerary Map
 1. Using the Google Directions API, create a travel itinerary that shows the route between four cities chosen out of the vacation set of destinations. 
